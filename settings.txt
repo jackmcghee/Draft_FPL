@@ -1,0 +1,12 @@
+{
+    "draft_settings": [
+        {
+            "latest_week": 3,
+            "prefix_folder": "C:/Users/Knick/Documents/Python/Projects - Independent/FPL/21_22",
+            "players_checked": "04/09/21",
+            "players_updated": "04/09/21",
+            "gw_updated": "04/09/21",
+            "folders": "Players, Weeks, bootstrap-static, Draft_stats, Draft_teams, Inputs"
+        }
+    ]
+}
