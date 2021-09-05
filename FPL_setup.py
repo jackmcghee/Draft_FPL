@@ -1,3 +1,5 @@
+"""this should be run to set up all neccessary folders"""
+
 import FPL #my custom class
 import json
 
