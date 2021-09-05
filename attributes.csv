@@ -1,0 +1,7 @@
+name,static,sum
+web_name,TRUE,FALSE
+ict_index,FALSE,TRUE
+goals_scored,FALSE,TRUE
+assists,FALSE,TRUE
+draft_rank,TRUE,TRUE
+total_points,FALSE,TRUE
